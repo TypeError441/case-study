@@ -1,9 +1,12 @@
 * { font-family: 'Montserrat', sans-serif; }
+body {
+    background: linear-gradient(to bottom right, #168aad, #34a0a4, #52b69a, #76c893);
+}
 .container-casestudy {
     border-radius: 4em 10px 4em 10px;
     background: #cccccc;
     padding: 1em 2em;
-    width: fit-content;
+    width: 50ch;
     margin: 0 0 5em 20px;
 }
 .image-casestudy {
